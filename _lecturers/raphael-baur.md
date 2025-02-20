@@ -4,9 +4,7 @@ image: raphael-baur.jpg
 order: 3
 institution-logos: [ethz.svg]
 link: https://www.raphaelbaur.com
-role: teaching-assistant
+role: lecturer
 ---
-
-- Head Teaching Assistant
 - PhD Fellow at the ETH AI Center
 - EBD Alumni
