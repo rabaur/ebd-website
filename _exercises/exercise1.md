@@ -38,8 +38,8 @@ To boost your learning, we will hold a feedback session during the lecture of th
 
 ## 1.1 Reading Assignment (90 points)
 
-In this exercise, you will work in groups of 4 students.
-You can choose a paper and group up with your classmates in [this spreadsheet](https://polybox.ethz.ch/index.php/s/Pp9nOnweOPSmVS1). In the columns `Student 1-4` please indicate your name and email address, such that you can mutually get in touch. Please complete this process before the 04.03.2025 at 23:59.
+In this exercise, you will work in groups of 2 students.
+You can choose a paper and group up with your classmates in [this spreadsheet](https://polybox.ethz.ch/index.php/s/Pp9nOnweOPSmVS1). In the columns `Student 1-2` please indicate your name and email address, such that you can mutually get in touch. Please complete this process before the 04.03.2025 at 23:59.
 
 The papers cover a variety of topics, some of them concerned with methodological contributions, others with experiments conducted in specific architectural environments like hospitals. Note that a paper can only be chosen once by one group, and the selection is first-come-first-serve.
 
