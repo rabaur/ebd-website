@@ -4,7 +4,7 @@ topic: Introductory Lecture
 lecturers: [Lara Gregorians, Michal Gath-Morad]
 type: lecture
 exercise: <strong>Handout:</strong> Exercise 1
-recording:
+recording: https://ethz.zoom.us/rec/share/VS-f8XFtaRAYfGibOffbbCBTfYtomt3FuVUxIOyw1z7ZcixBWfybRDfD0rNInkEw.50Fe_8i4-qL8JKBH
 slides:
 ---
 
