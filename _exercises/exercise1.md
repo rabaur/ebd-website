@@ -11,7 +11,7 @@ publish: true
 ## Submission Details 
 - **Submission date**: 12.03.2025, 17:59 CET
 - **Submission materials**:
-  - A presentation on the paper (**max. 10 minutes**). File name: Your group member's last name delimited by `_`. Example: If your group consists of _A. Einstein_, _M. Curie_ → `einstein_curie.pdf`. [Upload link](https://polybox.ethz.ch/index.php/s/tKy3eRKS3FyYmco)
+  - A presentation on the paper (**max. 10 minutes**). File name: Your group member's last name delimited by `_`. Example: If your group consists of _A. Einstein_, _M. Curie_ → `einstein_curie.pdf`. [Upload link](https://polybox.ethz.ch/index.php/s/K3dkUzIbw94jJot)
   - Your peer-review efforts, as described below
 - **Feedback Session**: 05.03.2025 in class. Come prepared with a presentation draft and questions.
 - **Presentation date**: 12.03.2025 in class
