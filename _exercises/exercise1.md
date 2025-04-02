@@ -11,7 +11,7 @@ publish: true
 ## Submission Details 
 - **Submission date**: 12.03.2025, 17:59 CET
 - **Submission materials**:
-  - A presentation on the paper (**max. 10 minutes**). File name: Your group member's last name delimited by `_`. Example: If your group consists of _A. Einstein_, _M. Curie_ → `einstein_curie.pdf`. [Upload link](https://polybox.ethz.ch/index.php/s/tKy3eRKS3FyYmco)
+  - A presentation on the paper (**max. 10 minutes**). File name: Your group member's last name delimited by `_`. Example: If your group consists of _A. Einstein_, _M. Curie_ → `einstein_curie.pdf`. [Upload link](https://polybox.ethz.ch/index.php/s/K3dkUzIbw94jJot)
   - Your peer-review efforts, as described below
 - **Feedback Session**: 05.03.2025 in class. Come prepared with a presentation draft and questions.
 - **Presentation date**: 12.03.2025 in class
@@ -38,8 +38,8 @@ To boost your learning, we will hold a feedback session during the lecture of th
 
 ## 1.1 Reading Assignment (90 points)
 
-In this exercise, you will work in groups of 4 students.
-You can choose a paper and group up with your classmates in [this spreadsheet](https://polybox.ethz.ch/index.php/s/Pp9nOnweOPSmVS1). In the columns `Student 1-4` please indicate your name and email address, such that you can mutually get in touch. Please complete this process before the 04.03.2025 at 23:59.
+In this exercise, you will work in groups of 2 students.
+You can choose a paper and group up with your classmates in [this spreadsheet](https://polybox.ethz.ch/index.php/s/Pp9nOnweOPSmVS1). In the columns `Student 1-2` please indicate your name and email address, such that you can mutually get in touch. Please complete this process before the 04.03.2025 at 23:59.
 
 The papers cover a variety of topics, some of them concerned with methodological contributions, others with experiments conducted in specific architectural environments like hospitals. Note that a paper can only be chosen once by one group, and the selection is first-come-first-serve.
 
