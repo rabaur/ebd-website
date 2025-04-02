@@ -3,32 +3,32 @@ layout: exercise
 title: Exercise 2
 date:   2024-02-14 15:48:01 +0100
 categories: jekyll update
-publish: false
+publish: true
 ---
 
 # Topological & Geometric Analysis of Hospital Layouts
 
 ## Submission Details
-- **Submission date**: 13.11.2024, 18:00 CET
+- **Submission date**: 15.04.2025, 23:59 CET
 - **Submission materials**:
-  - A report on the exercise (at least one page, less than two pages with images). File name: Your group member's last name is delimited by `_`. Example: If your group consists of _A. Einstein_, _M. Curie_ → `einstein_curie.pdf`. [Upload link](https://polybox.ethz.ch/index.php/s/pyGGsPYep9Fko5g)
-- **Group size**: Individual assignment
+  - A report on the exercise (at least one page, less than two pages with images). Name your file by concatenating your group members’ last names with an underscore (e.g., for A. Einstein and M. Curie, use `einstein_curie.pdf`). [Upload link](https://polybox.ethz.ch/index.php/s/fkyuMZPBaINJ0qL)
+- **Group size**: 2 students
 - **Grading**: Total of 100 points. The report will be evaluated according to the following criteria:
   - Clarity of the report
   - Depth of the analysis
   - Quality of the discussion on the impact of the results on architectural design
-- **Office hour**: 06.11.2024, during class
+- **Office hour**: 09.04.2025, during class
 
 The goal of this exercise will be to design an intervention in an existing hospital design such that it will improve at least two of the measures presented in week 5.
 
 ## 1. Assignment Overview
 
-The goal of this exercise will be to design an intervention in an existing hospital design such that it will improve two of the measures presented in week 5. In particular, you will be investigating the SCI and the YTI metric. Please refresh your memory by consulting the lecture slides, but we will restate their definition here:
+The goal of this exercise will be to design an intervention in an existing hospital design such that it will improve two of the measures presented in lecture 7. In particular, you will be investigating the SCI and the YTI metric. Please refresh your memory by consulting the lecture slides, but we will restate their definition here:
 > **Spaces for Communication Index (SCI)**: The Spaces for Communication Index (SCI)  (Pachilova et. al., 2020) is a measure designed to evaluate hospital ward layouts based on their ability to maximize communication opportunities among healthcare workers, as increased face-to-face interactions are linked to a higher quality of care. We compute it as the average area of the isovist when traveling along typical routes in the hospital.
 
 > **Yale Traffic Index (YTI)**: The Yale Traffic Index (YTI) is a network efficiency metric. It corresponds to the expected distance of a typical route of a nurse.
 
-In this task, you will use [arxitect](https://arxitect.ivia.ch), a research prototype for hospital layout design with real-time analytics. The exercise is split into two parts, the first of which is mandatory, and the second of which is optional. In the first part, you will choose a hospital floor plan and perform a design intervention to improve the above-mentioned metrics. In the second task, you will start with a given floor plan and try to improve an overall score given some constraints. You will be able to compare the performance of your intervention with that of other students.
+In this task, you will use [arxitect](https://arxitect.ivia.ch), a research prototype for hospital layout design with real-time analytics. As a group, you will choose a hospital floor plan and individually perform a design intervention to improve the above-mentioned metrics. In your report, you will then compare your approaches and discuss how this affected the floorplan.
 
 ## 2. `arxitect` Tutorial
 
@@ -69,7 +69,7 @@ Opening a project will forward you to the _editor_. In the editor, you can draw 
 
 
 <img src="../assets/images/exercises/exercise2/measure_icon.png" class="inline-icon"/> The **measure** tool allows you to indicate the _true_ length of a straight line in your layout to calibrate your metrics. Click once to place the first reference point, and click again to place the second reference point. Insert the true distance in meters in the text box that appears.
-> Note: Currently, adding a reference length will not recompute your previous measurements. The metrics will only take into account the reference length from the point of insertion onwards. Therefore, it is recommended to add the reference length at the beginning of your design process.
+> Currently, adding a reference length will not recompute your previous measurements. The metrics will only take into account the reference length from the point of insertion onwards. Therefore, it is recommended to add the reference length at the beginning of your design process.
 
 <img src="../assets/images/exercises/exercise2/reference_image_icon.png" class="inline-icon"/> The **reference image** tool allows you to upload an image of the floorplan you are working on. This will help you to draw the walls more accurately. Click on the icon and select the image you want to upload. It will then be displayed in the background of the canvas. Re-uploading an image will overwrite the previous one.
 
@@ -82,7 +82,9 @@ Opening a project will forward you to the _editor_. In the editor, you can draw 
 
 ## 3. Task 1: Design Intervention
 
-1. **Find a Floorplan Typology**: Find a hospital floorplan online, including information about the architect, year of completion, and patient bed capacity. You can find further examples [here](https://polybox.ethz.ch/index.php/s/mQlW5RXpibw7s2c).
+Steps 1–7 should be completed once by your group. After generating the initial layout, each member should independently perform the design intervention outlined in steps 8–9
+
+1. **Find a Floorplan Typology**: Find a hospital floorplan online, including information about the architect, year of completion, and patient bed capacity. You can find further examples [here](https://polybox.ethz.ch/index.php/s/mQlW5RXpibw7s2c). Note that the floorplan you choose in this exercise will also be used in the third and final exercise.
 2. **Create a New Project**: Use the arxitect tool to create a new project.
 3. **Upload Floorplan**: Upload the floorplan using the reference image tool.
 4. **Calibrate Distances**: Use the measure tool to calibrate distances, using known elements like scale bars or door widths. Longer distances yield better accuracy.
@@ -98,16 +100,6 @@ The goal of the report is to document your experience with `arxitect`. It should
 
 - **Hospital Characteristics**: Describe the type of hospital, location, year built, architect, and function of the analyzed ward.
 - **Status Quo**: Describe the initial layout, noting what works well, what doesn't, and any peculiarities.
-- **Hypothesis/Strategy**: Describe your strategy for the design intervention in 2-3 sentences.
-- **Design Process**: Document your design process, key milestones, and decisions.
-- **Reflection**: Reflect on how analytics-assisted design influenced your experience. Did it engage or hinder you?
-
-## 5. Optional Task: Challenge (Release Date: Upcoming Days)
-
-1. **Create a New Project**: Create a project named `challenge-hs24-your-nickname` where `your-nickname` is your chosen nickname. Ensure the name starts with "challenge-hs24-" for tracking purposes.
-2. **Download Starter Layout**: Download the provided JSON file.
-3. **Import Starter Layout**: Import the starter layout into your challenge project.
-4. **Upload Reference Image**: Download and import the provided reference image.
-5. **Calibrate Distance**: Measure the indicated line in the layout. This step is mandatory for valid submissions.
-6. **Start Optimizing**: Improve both SCI and YTI metrics. Your score will be the average improvement of both metrics. For example, if you improve the SCI by 10% concerning the starter layout and the YTI improves by 20%, your score will be 0.5 * (10 + 20) = 15. Your score will be the average improvement of both metrics.
-7. **Propose Additional Metrics**: If time permits, we will implement proposed additional metrics for evaluation. Approved metrics will be used for all participants.
+- **Hypothesis/Strategy**: Compare your strategies for the design intervention in 2-3 sentences.
+- **Design Process**: Document your individual design processes, key milestones, and decisions.
+- **Reflection**: Reflect together on how analytics-assisted design influenced your experience. Did it engage or hinder you?
