@@ -11,7 +11,7 @@ publish: true
 ## Submission Details
 - **Submission date**: 15.04.2025, 23:59 CET
 - **Submission materials**:
-  - A report on the exercise (at least one page, less than two pages with images). Name your file by concatenating your group members’ last names with an underscore (e.g., for A. Einstein and M. Curie, use `einstein_curie.pdf`). [Upload link](https://polybox.ethz.ch/index.php/s/fkyuMZPBaINJ0qL)
+  - A report on the exercise (at least one page, less than two pages with images). Name your file by concatenating your group members’ last names with an underscore (e.g., for A. Einstein and M. Curie, use `einstein_curie.pdf`). [Upload link](https://polybox.ethz.ch/index.php/s/QjGCs5zzzA0XBer)
 - **Group size**: 2 students
 - **Grading**: Total of 100 points. The report will be evaluated according to the following criteria:
   - Clarity of the report
