@@ -3,7 +3,7 @@ layout: exercise
 title: Exercise 3
 date:   2024-02-14 15:48:01 +0100
 categories: jekyll update
-publish: false
+publish: true
 ---
 
 # Exercise 3: Comparing Users’ Wayfinding across Hospital Typologies
