@@ -93,8 +93,3 @@ Finally, summarize your experiment within a 10-minute presentation. It should at
 - How do you design your environment to control other irrelevant variables? What data did you collect?
 - What is the main conclusion of the experiment? Do you have other interesting findings that worth deeper research?
 - What difficulties did you face during the task? What could be the limitations of your study?
-## 5 Analyzing and Visualizing the Outcomes
-- Use the various visualization tools of the toolkit to visualize "visual attention" patterns and trajectories (at least one, both only if applicable to your hypothesis)
-- Perform a statistical test on your collected outcomes. Google Sheets supports simple (and complex) statistical tests like a [t-Test](https://support.google.com/docs/answer/6055837?hl=en)
-- Feel free to use more involved statistical tests or methods if applicable
-- Summarize your findings in a presentation (10 slides, 5 minutes max).
