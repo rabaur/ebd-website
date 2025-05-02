@@ -4,8 +4,8 @@ topic:
 lecturers:
 type: lecture
 exercise: <strong>Handout:</strong> Exercise 3
-recording:
+recording: https://polybox.ethz.ch/index.php/s/KJyDGntA3wCwbrj
 slides: https://polybox.ethz.ch/index.php/s/joa5eDjFA4BPy3N
 ---
 
-**Tutorial:** _Virtual walkthrough_ by Yiqiao Wang
+**Tutorial:** _Virtual walkthrough_ by Yiqiao Wang and Bo Pan
