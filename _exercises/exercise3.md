@@ -39,14 +39,14 @@ The walkthrough experiment will take place in a desktop-based virtual environmen
 - Take a screenshot of the base layout and the intervention layout in [arxitect](https://arxitect.ivia.ch/home).
 - Retrace the line drawings in your favourite 3D software. Note that we will only be able to assist you if you use [Rhino 7](https://www.rhino3d.com/download/archive/rhino/7/latest/)
   - If you decide to use Rhino 7, we can provide you with a license. Please send an email to [bopanb@student.ethz.ch](bopanb@student.ethz.ch) with the email that is associated with your Rhino account such that we can invite you to the license pool.
-- Follow the approach shown in [the lecture](https://ethz.zoom.us/rec/share/HYDx-BdTlpGVI22vkQlLpduRA_Pof-JPmg7bz_Fu4Au8xlzTCISdEmCG_Zvru1hY.uUD1DtbZ3ugkVtMZ) to properly scale your reference image, trace the lines, and create 3D walls from them.
+- Follow the approach shown in [the lecture](https://polybox.ethz.ch/index.php/s/KJyDGntA3wCwbrj) to properly scale your reference image, trace the lines, and create 3D walls from them.
 - After this is done, follow the approach in the lecture to make sure that your walls are double-sided (adding thickness)
 - You would like to categorize geometries into different layers, to later distinguish them in the eye-tracking results.
 - Finally, export your geometry to `fbx`.
 
 ## 2 Importing Your 3D Geometry into Unity
-- Follow [the lecture](https://ethz.zoom.us/rec/share/HYDx-BdTlpGVI22vkQlLpduRA_Pof-JPmg7bz_Fu4Au8xlzTCISdEmCG_Zvru1hY.uUD1DtbZ3ugkVtMZ) and or [this tutorial](https://github.com/rabaur/EBD-Toolkit/tree/main) to obtain **GitHub Desktop**, **Unity 2022.3.XXX**, and the **Unity Project**.
-- Familiarize with the functionalities of the tool through [the lecture](https://ethz.zoom.us/rec/share/HYDx-BdTlpGVI22vkQlLpduRA_Pof-JPmg7bz_Fu4Au8xlzTCISdEmCG_Zvru1hY.uUD1DtbZ3ugkVtMZ).
+- Follow [the lecture](https://polybox.ethz.ch/index.php/s/KJyDGntA3wCwbrj) and or [this tutorial](https://github.com/rabaur/EBD-Toolkit/tree/main) to obtain **GitHub Desktop**, **Unity 2022.3.XXX**, and the **Unity Project**.
+- Familiarize with the functionalities of the tool through [the lecture](https://polybox.ethz.ch/index.php/s/KJyDGntA3wCwbrj).
 - Make sure that you are able to collect and visualize some data in the reference scene `VirtualWalkthrough`.
 - For more in-depth information, follow [this tutorial](https://github.com/rabaur/EBD-Toolkit/blob/main/docs/virtual_walkthrough.md)
 - Go through this checklist before continuing with your next steps:
@@ -60,7 +60,7 @@ The walkthrough experiment will take place in a desktop-based virtual environmen
 ## 3 Coming Up With an Experiment
 - For this exercise, you will be recruiting at least **6 participants** to perform the virtual walkthrough.
 - These participants can be anyone except your group members themselves. They could also be colleagues from other EBD groups.
-- Familiarize yourself with the outputs that the tool provides. What would be an interesting research question to ask in your layout? Consult [the lecture](https://ethz.zoom.us/rec/share/HYDx-BdTlpGVI22vkQlLpduRA_Pof-JPmg7bz_Fu4Au8xlzTCISdEmCG_Zvru1hY.uUD1DtbZ3ugkVtMZ) to check what the properties of a good research question are.
+- Familiarize yourself with the outputs that the tool provides. What would be an interesting research question to ask in your layout? Consult [the lecture](https://polybox.ethz.ch/index.php/s/KJyDGntA3wCwbrj) to check what the properties of a good research question are.
 - Your will perform a [within-subject](https://www.scribbr.com/methodology/within-subjects-design/) study, meaning all your participants will see both layouts. Randomize the order of experiments to combat learning effects.
 - Define your research question, research variables and hypothesis. Example:
 	- Question: does plan’s network efficiency affect the targeted wayfinding efficiency?
