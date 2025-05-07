@@ -8,4 +8,4 @@ recording:
 slides:
 ---
 
-**Feedback session 2:** Exercise 3 (on data analysis)
+**Feedback:** Exercise 3 (on data analysis)
