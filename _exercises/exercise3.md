@@ -10,9 +10,10 @@ publish: true
 
 ## Submission Details 
 - **Group size**: 2 students
-- **Research question submission date:** 07.05.2025, 12:00 CET (via email)
-- **Submission date**: 14.05.2025, 17:59 CET
-- **Presentation date**: 14.05.2025
+- **Research question submission date(feedback1):** 07.05.2025, 12:00 CET (via email)
+- **Experiment and data collection deadline(feedback2):** 14.05.2025, 17:59 CET
+- **Submission date**: 21.05.2025, 17:59 CET
+- **Presentation date**: 21.05.2025
 - **Submission materials**: 
 	- For all the following materials, use the naming convention of your group member's last name delimited by `_`. Example: If your group consists of _A. Einstein_, _M. Curie_ → `einstein_curie` with the appropriate file extension.
 	- The research question with experiment design. Send via Email to yiqwang@student.ethz.ch
