@@ -11,7 +11,7 @@ publish: true
 ## Submission Details
 - **Submission date**: 15.04.2025, 23:59 CET
 - **Submission materials**:
-  - A report on the exercise (at least one page, less than two pages with images). Name your file by concatenating your group members’ last names with an underscore (e.g., for A. Einstein and M. Curie, use `einstein_curie.pdf`). [Upload link](https://polybox.ethz.ch/index.php/s/fkyuMZPBaINJ0qL)
+  - A report on the exercise (at least one page, less than two pages with images). Name your file by concatenating your group members’ last names with an underscore (e.g., for A. Einstein and M. Curie, use `einstein_curie.pdf`). [Upload link](https://polybox.ethz.ch/index.php/s/QjGCs5zzzA0XBer)
 - **Group size**: 2 students
 - **Grading**: Total of 100 points. The report will be evaluated according to the following criteria:
   - Clarity of the report
@@ -84,7 +84,7 @@ Opening a project will forward you to the _editor_. In the editor, you can draw 
 
 Steps 1–7 should be completed once by your group. After generating the initial layout, each member should independently perform the design intervention outlined in steps 8–9
 
-1. **Find a Floorplan Typology**: Find a hospital floorplan online, including information about the architect, year of completion, and patient bed capacity. You can find further examples [here](https://polybox.ethz.ch/index.php/s/mQlW5RXpibw7s2c). Note that the floorplan you choose in this exercise will also be used in the third and final exercise.
+1. **Find a Floorplan Typology**: Find a hospital floorplan online, including information about the architect, year of completion, and patient bed capacity. You can find further examples [here](https://polybox.ethz.ch/index.php/s/s9C2MoT794mBZMB). Note that the floorplan you choose in this exercise will also be used in the third and final exercise.
 2. **Create a New Project**: Use the arxitect tool to create a new project.
 3. **Upload Floorplan**: Upload the floorplan using the reference image tool.
 4. **Calibrate Distances**: Use the measure tool to calibrate distances, using known elements like scale bars or door widths. Longer distances yield better accuracy.

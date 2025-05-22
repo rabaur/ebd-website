@@ -8,4 +8,4 @@ recording:
 slides:
 ---
 
-**Feedback:** Exercise 3
+**Feedback:** Exercise 3 (on research questions and experimental design)
