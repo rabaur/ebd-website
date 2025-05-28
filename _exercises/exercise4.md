@@ -11,7 +11,7 @@ publish: true
 ## Submission Details:
 
 - **Submission date**: 28.05.2025, 17:59 CET
-- **Submission materials**: A presentation file (your preferred format) named using the group member's last names, e.g., `einstein_curie.pdf`. [Upload link](https://polybox.ethz.ch/index.php/s/mH1zZKEI30TMFs7)
+- **Submission materials**: A presentation file (your preferred format) named using the group member's last names, e.g., `einstein_curie.pdf`. [Upload link](https://polybox.ethz.ch/index.php/s/qq6ajYMRcCq9dkZ)
 - **Presentation date**: 28.05.2025 in class
 
 ## Project Description
